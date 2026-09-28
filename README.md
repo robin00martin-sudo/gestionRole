@@ -7,6 +7,8 @@ consultant : permet de voir les utilisateurs et les rôles existant.
 
 admin : même droit que les consultants mais en plus capacité de créer et supprimer des utilisateurs idem pour les rôles, ainsi que d'affecter un rôle à des utilisateurs.
 
+
+
 gestionRole.sql -> sript de la BDD ansi qu'un jeu de donnée.
 
 getRacine.php -> permet de centraliser _DIR_.
